@@ -1,3 +1,4 @@
+gcloud init
 gcloud auth
 gcloud auth activate-refresh-token
 gcloud auth activate-service-account
